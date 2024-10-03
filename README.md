@@ -70,10 +70,4 @@ The model achieves an accuracy of approximately **85-90%** on the test dataset. 
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to create a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Let me know if you need to customize or add more details to the README!
